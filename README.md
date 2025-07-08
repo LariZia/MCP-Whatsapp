@@ -1,4 +1,4 @@
-# WhatsApp MCP Server
+# WhatsApp MCP Server - by lharries at https://github.com/lharries/whatsapp-mcp.git
 
 This is a Model Context Protocol (MCP) server for WhatsApp.
 
